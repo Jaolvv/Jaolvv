@@ -1,4 +1,6 @@
-## Hi, there! This's Jaolvv ! Weclome to my "Channel"
+## Weclome to my "Channel"
+
+Hi, there! This's Jaolvv! a college student from Chong Qing, China.
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> 
 <em><b> Don't have a good day, Have a GREAT day</b>
