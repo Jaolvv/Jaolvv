@@ -1,9 +1,9 @@
 ## Weclome to my "Channel"
 
-Hi, there! This's Jaolvv! a college student from Chong Qing, China.
+Hi, there! This's Jaolvv! a college student from Chong Qing, China🐉.
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> 
-<em><b> Don't have a good day, Have a GREAT day</b>
+<em><b> Don't have a good day, Have a GREAT day😸</b>
 
 <br>
 <br>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
   
 <p>
-Visitors
+Visitors👨‍💻
 </p>
 
 ![]( https://gv.halberd.cn/Jaolvv?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=6&speed=40&size=35&space=3&tail=0)
@@ -79,14 +79,16 @@ Visitors
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
- 
+**In the process of learning**
 **Languages and Frameworks**
 
 <code><img height="20" src="#" alt="Java" title="Java"></code>
+<code><img height="20" src="#" alt="Spring" title="Spring"></code>
+<code><img height="20" src="#" alt="MySQL" title="MySQL"></code>
 <code><img height="20" src="#" alt="Python" title="Python"></code>
 <code><img height="20" src="#" alt="JSON" title="JSON"></code>
 <code><img height="20" src="#" alt="Git" title="Git"></code>
-<code><img height="20" src="#" alt="html" title="html"></code>
+<code><img height="20" src="#" alt="html" title="H5"></code>
 <code><img height="20" src="#" alt="Vue" title="Vue"></code>
 <code><img height="20" src="#" alt="JS" title="JS"></code>
 
