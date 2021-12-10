@@ -1,7 +1,9 @@
-## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">ZHANG WEI (Charmve<sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronounce">`🔊`</a></sup>)</a> 
+## Hi, there! This's Jaolvv ! Weclome to my "Channel"
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> 
+<em><b> Don't have a good day, Have a GREAT day</b>
 
+<br>
 <br>
 
 <!--
@@ -20,59 +22,54 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
+  <a href="https://github.com/Jaolvv" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jaolvv" alt="Jaolvv's Stats" >
   </a>
 </p>
+  
+<p>
+Visitors
+</p>
+
+![]( https://gv.halberd.cn/Jaolvv?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=6&speed=40&size=35&space=3&tail=0)
 
 <p align="center">
-  <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a>
+  Link:
   &emsp;
-  <a href="https://blog.csdn.net/Charmve" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://space.bilibili.com/62079686" target="_blank" alt="Bilibili" title="Bilibili">
+  <a href="https://space.bilibili.com/49814220" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
   </a> 
   &emsp;
-  <a href= "https://www.instagram.com/charmve_/" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
+  <a href= "https://www.cnblogs.com/jaolvv" target="_blank" alt="Blogs" title="Blogs">
+    <img src="https://pic.cnblogs.com/avatar/2348386/20210406171747.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
+  <a href="https://open.spotify.com/user/5s3g5cbs053l6yo3ziv2m3sd9" target="_blank" alt="Spotify" title="Spotify">
+    <img src="https://images.cnblogs.com/cnblogs_com/blogs/679311/galleries/1963189/o_211210160250_2111624.png" width="26px"/>
   </a>
   &emsp;
-  <a href="https://www.linkedin.com/in/charmve" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  <a href="https://gitee.com/jaolvv" target="_blank" alt="gitee" title="gitee">
+    <img src="https://images.cnblogs.com/cnblogs_com/blogs/679311/galleries/1963189/o_211210160842_9357cf7a0529738c587b.png" width="26px"/>
   </a>
+  
   <br><br>
+  
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Jaolvv">
+    <img src="https://badges.pufler.dev/visits/Jaolvv/Jaolvv?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/years/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Jaolvv">
+    <img src="https://badges.pufler.dev/years/Jaolvv?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Jaolvv?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Jaolvv?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/Charmve">
-    <img src="https://badges.pufler.dev/gists/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/Jaolvv">
+    <img src="https://badges.pufler.dev/gists/Jaolvv?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Jaolvv">
+    <img src="https://badges.pufler.dev/commits/monthly/Jaolvv?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
@@ -80,8 +77,6 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- stackoverflow profile
-<a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
  
 **Languages and Frameworks**
 
@@ -110,25 +105,4 @@ Here are some ideas to get you started:
 
 <br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-```
-<!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
-
-<a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 ---
-
-🚧 **My Todoist Stats: ⬇️**
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
--->
