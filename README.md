@@ -9,7 +9,7 @@ Hi, there! This's Jaolvv! a college student from Chong Qing, China🐉.
 <br>
 
 <!--
-**Charmve/Charmve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jaolvv/Jaolvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -36,7 +36,7 @@ Visitors👨‍💻
 ![]( https://gv.halberd.cn/Jaolvv?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=6&speed=40&size=35&space=3&tail=0)
 
 <p align="center">
-  Link:
+  Link📫:
   &emsp;
   <a href="https://space.bilibili.com/49814220" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
@@ -79,21 +79,11 @@ Visitors👨‍💻
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
-**In the process of learning**
-**Languages and Frameworks**
-
-<code><img height="20" src="#" alt="Java" title="Java"></code>
-<code><img height="20" src="#" alt="Spring" title="Spring"></code>
-<code><img height="20" src="#" alt="MySQL" title="MySQL"></code>
-<code><img height="20" src="#" alt="Python" title="Python"></code>
-<code><img height="20" src="#" alt="JSON" title="JSON"></code>
-<code><img height="20" src="#" alt="Git" title="Git"></code>
-<code><img height="20" src="#" alt="html" title="H5"></code>
-<code><img height="20" src="#" alt="Vue" title="Vue"></code>
-<code><img height="20" src="#" alt="JS" title="JS"></code>
+**Learning Languages and Frameworks**🌱
+  <code><p>| Java | Spring | MySQL | Python | HTML CSS JS |</p></code>
 
 
-**Tools and Environments**
+**Tools and Environments**🌱
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://images.cnblogs.com/cnblogs_com/blogs/679311/galleries/1963189/o_211210163420_IntelliJ_IDEA_Icon.svg.png" alt="IDEA" title="IDEA"></code>
