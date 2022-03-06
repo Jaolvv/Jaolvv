@@ -42,8 +42,8 @@ Visitors👨‍💻
     <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
   </a> 
   &emsp;
-  <a href= "https://www.cnblogs.com/jaolvv" target="_blank" alt="Blogs" title="Blogs">
-    <img src="https://pic.cnblogs.com/avatar/2348386/20210406171747.png" width="28px"/>
+  <a href= "https://www.jaolvv.top" target="_blank" alt="Blogs" title="Blogs">
+    <img src="https://www.jaolvv.top/upload/2022/02/profile-8601c6749138466ca57e9a30300d4ff4.png" width="28px"/>
   </a>
   &emsp;
   <a href="https://open.spotify.com/user/5s3g5cbs053l6yo3ziv2m3sd9" target="_blank" alt="Spotify" title="Spotify">
