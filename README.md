@@ -64,13 +64,13 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Jaolvv&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jaolvv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaolvv&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaolvv&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31chgigy34b4catc3hedrer2lxce&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" align="center" style="width: 100%" />  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31chgigy34b4catc3hedrer2lxce&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
